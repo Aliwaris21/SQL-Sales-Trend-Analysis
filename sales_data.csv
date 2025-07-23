@@ -1,0 +1,11 @@
+OrderID,Product,Category,OrderDate,Region,Quantity,UnitPrice,Revenue
+1001,Laptop,Tech,2024-01-01,East,1,800,800
+1002,Mouse,Tech,2024-01-15,West,2,20,40
+1003,Chair,Furniture,2024-02-05,South,1,120,120
+1004,Pen,Stationery,2024-02-15,North,5,2,10
+1005,Desk,Furniture,2024-03-01,East,1,300,300
+1006,Keyboard,Tech,2024-03-10,South,1,50,50
+1007,Notebook,Stationery,2024-04-01,West,3,5,15
+1008,Monitor,Tech,2024-04-20,North,2,200,400
+1009,Printer,Tech,2024-05-05,East,1,150,150
+1010,Stapler,Stationery,2024-05-18,West,4,3,12
